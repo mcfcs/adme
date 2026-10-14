@@ -1,0 +1,674 @@
+[
+  {
+    "name": "AIESEC in Ateneo de Manila University",
+    "abbreviation": "AIESEC in AdMU",
+    "cluster": "COA-M",
+    "slug": "aiesec-in-admu",
+    "logo": "/org-logos/coa-m/aiesec-in-admu.png"
+  },
+  {
+    "name": "Alay ni Ignacio",
+    "abbreviation": "ANI",
+    "cluster": "COA-M",
+    "slug": "ani",
+    "logo": "/org-logos/coa-m/ani.png"
+  },
+  {
+    "name": "Ateneo AEGIS",
+    "abbreviation": "AEGIS",
+    "cluster": "COA-M",
+    "slug": "aegis",
+    "logo": "/org-logos/coa-m/aegis.png"
+  },
+  {
+    "name": "Ateneo Association for Communications Technology Management",
+    "abbreviation": "Ateneo ACTM",
+    "cluster": "COA-M",
+    "slug": "ateneo-actm",
+    "logo": "/org-logos/coa-m/ateneo-actm.png"
+  },
+  {
+    "name": "Ateneo Association of European Studies Students",
+    "abbreviation": "AEuSS",
+    "cluster": "COA-M",
+    "slug": "aeuss",
+    "logo": "/org-logos/coa-m/aeuss.png"
+  },
+  {
+    "name": "Ateneo Biological Organization - eXplore. eXperience. eXcel.",
+    "abbreviation": "Ateneo BOx",
+    "cluster": "COA-M",
+    "slug": "ateneo-box",
+    "logo": "/org-logos/coa-m/ateneo-box.png"
+  },
+  {
+    "name": "Ateneo Blue Consulting Group",
+    "abbreviation": "BCG",
+    "cluster": "COA-M",
+    "slug": "bcg",
+    "logo": "/org-logos/coa-m/bcg.png"
+  },
+  {
+    "name": "Ateneo Blue Repertory",
+    "abbreviation": "blueREP",
+    "cluster": "COA-M",
+    "slug": "bluerep",
+    "logo": "/org-logos/coa-m/bluerep.png"
+  },
+  {
+    "name": "Ateneo Catechetical Instruction League",
+    "abbreviation": "ACIL",
+    "cluster": "COA-M",
+    "slug": "acil",
+    "logo": "/org-logos/coa-m/acil.png"
+  },
+  {
+    "name": "Ateneo Celadon",
+    "abbreviation": "Celadon",
+    "cluster": "COA-M",
+    "slug": "celadon",
+    "logo": "/org-logos/coa-m/celadon.png"
+  },
+  {
+    "name": "Ateneo Chemistry Society",
+    "abbreviation": "ACheS",
+    "cluster": "COA-M",
+    "slug": "aches",
+    "logo": "/org-logos/coa-m/aches.png"
+  },
+  {
+    "name": "Ateneo Christian Life Community",
+    "abbreviation": "ACLC",
+    "cluster": "COA-M",
+    "slug": "aclc",
+    "logo": "/org-logos/coa-m/aclc.png"
+  },
+  {
+    "name": "Ateneo College Ministry Group",
+    "abbreviation": "ACMG",
+    "cluster": "COA-M",
+    "slug": "acmg",
+    "logo": "/org-logos/coa-m/acmg.png"
+  },
+  {
+    "name": "Ateneo Commission on Audit",
+    "abbreviation": "ACoA",
+    "cluster": "COA-M",
+    "slug": "acoa",
+    "logo": "/org-logos/coa-m/acoa.png"
+  },
+  {
+    "name": "Ateneo Commission on Elections",
+    "abbreviation": "Ateneo COMELEC",
+    "cluster": "COA-M",
+    "slug": "ateneo-comelec",
+    "logo": "/org-logos/coa-m/ateneo-comelec.png"
+  },
+  {
+    "name": "Ateneo Consultants for Organization Development and Empowerment",
+    "abbreviation": "Ateneo CODE",
+    "cluster": "COA-M",
+    "slug": "ateneo-code",
+    "logo": "/org-logos/coa-m/ateneo-code.png"
+  },
+  {
+    "name": "Ateneo de Manila College Glee Club",
+    "abbreviation": "ACGC",
+    "cluster": "COA-M",
+    "slug": "acgc",
+    "logo": "/org-logos/coa-m/acgc.png"
+  },
+  {
+    "name": "Ateneo Debate Society",
+    "abbreviation": "ADS",
+    "cluster": "COA-M",
+    "slug": "ads",
+    "logo": "/org-logos/coa-m/ads.png"
+  },
+  {
+    "name": "Ateneo Economics Association",
+    "abbreviation": "AEA",
+    "cluster": "COA-M",
+    "slug": "aea",
+    "logo": "/org-logos/coa-m/aea.png"
+  },
+  {
+    "name": "Ateneo Education Geared towards Empowerment",
+    "abbreviation": "Ateneo EDGE",
+    "cluster": "COA-M",
+    "slug": "ateneo-edge",
+    "logo": "/org-logos/coa-m/ateneo-edge.png"
+  },
+  {
+    "name": "Ateneo Electronics and Computer Engineering Society",
+    "abbreviation": "AECES",
+    "cluster": "COA-M",
+    "slug": "aeces",
+    "logo": "/org-logos/coa-m/aeces.png"
+  },
+  {
+    "name": "Ateneo ENterteynment para sa TAo, Bayan, LAnsangan, at DiyOs",
+    "abbreviation": "Ateneo ENTABLADO",
+    "cluster": "COA-M",
+    "slug": "ateneo-entablado",
+    "logo": "/org-logos/coa-m/ateneo-entablado.png"
+  },
+  {
+    "name": "Ateneo Environmental Science Society",
+    "abbreviation": "AESS",
+    "cluster": "COA-M",
+    "slug": "aess",
+    "logo": "/org-logos/coa-m/aess.png"
+  },
+  {
+    "name": "Ateneo Gabay",
+    "abbreviation": "Gabay",
+    "cluster": "COA-M",
+    "slug": "gabay",
+    "logo": "/org-logos/coa-m/gabay.png"
+  },
+  {
+    "name": "Ateneo Hinomoto",
+    "abbreviation": "HINO",
+    "cluster": "COA-M",
+    "slug": "hino",
+    "logo": "/org-logos/coa-m/hino.png"
+  },
+  {
+    "name": "Ateneo League of Physicists",
+    "abbreviation": "LeaPs",
+    "cluster": "COA-M",
+    "slug": "leaps",
+    "logo": "/org-logos/coa-m/leaps.png"
+  },
+  {
+    "name": "Ateneo Lex",
+    "abbreviation": "ALex",
+    "cluster": "COA-M",
+    "slug": "alex",
+    "logo": "/org-logos/coa-m/alex.png"
+  },
+  {
+    "name": "Ateneo Lingua Ars Cultura",
+    "abbreviation": "ALAC",
+    "cluster": "COA-M",
+    "slug": "alac",
+    "logo": "/org-logos/coa-m/alac.png"
+  },
+  {
+    "name": "Ateneo Management Association",
+    "abbreviation": "AMA",
+    "cluster": "COA-M",
+    "slug": "ama",
+    "logo": "/org-logos/coa-m/ama.png"
+  },
+  {
+    "name": "Ateneo Management Economics Organization",
+    "abbreviation": "Ateneo MEcO",
+    "cluster": "COA-M",
+    "slug": "ateneo-meco",
+    "logo": "/org-logos/coa-m/ateneo-meco.png"
+  },
+  {
+    "name": "Ateneo Management Engineering Association",
+    "abbreviation": "MEA",
+    "cluster": "COA-M",
+    "slug": "mea",
+    "logo": "/org-logos/coa-m/mea.png"
+  },
+  {
+    "name": "Ateneo Management Information Systems Association",
+    "abbreviation": "MISA",
+    "cluster": "COA-M",
+    "slug": "misa",
+    "logo": "/org-logos/coa-m/misa.png"
+  },
+  {
+    "name": "Ateneo Martial Law Museum and Library - Junior Fellows",
+    "abbreviation": "AMLML-JFs",
+    "cluster": "COA-M",
+    "slug": "amlml-jfs",
+    "logo": "/org-logos/coa-m/amlml-jfs.png"
+  },
+  {
+    "name": "Ateneo Mathematics Society",
+    "abbreviation": "AMS",
+    "cluster": "COA-M",
+    "slug": "ams",
+    "logo": "/org-logos/coa-m/ams.png"
+  },
+  {
+    "name": "Ateneo Musicians' Pool",
+    "abbreviation": "AMP",
+    "cluster": "COA-M",
+    "slug": "amp",
+    "logo": "/org-logos/coa-m/amp.png"
+  },
+  {
+    "name": "Ateneo Office of the Ombudsman",
+    "abbreviation": "OMB",
+    "cluster": "COA-M",
+    "slug": "omb-",
+    "logo": "/org-logos/coa-m/omb-.png"
+  },
+  {
+    "name": "Ateneo Peers",
+    "abbreviation": "PEERS",
+    "cluster": "COA-M",
+    "slug": "peers",
+    "logo": "/org-logos/coa-m/peers.png"
+  },
+  {
+    "name": "Ateneo Project for Asian and International Relations",
+    "abbreviation": "APAIR",
+    "cluster": "COA-M",
+    "slug": "apair",
+    "logo": "/org-logos/coa-m/apair.png"
+  },
+  {
+    "name": "Ateneo Psyche",
+    "abbreviation": "Psyche",
+    "cluster": "COA-M",
+    "slug": "psyche",
+    "logo": "/org-logos/coa-m/psyche.png"
+  },
+  {
+    "name": "Ateneo Special Education Society",
+    "abbreviation": "SPEED",
+    "cluster": "COA-M",
+    "slug": "speed",
+    "logo": "/org-logos/coa-m/speed.png"
+  },
+  {
+    "name": "Ateneo Student Catholic Action",
+    "abbreviation": "AtSCA",
+    "cluster": "COA-M",
+    "slug": "atsca",
+    "logo": "/org-logos/coa-m/atsca.png"
+  },
+  {
+    "name": "Ateneo Student Exchange Council",
+    "abbreviation": "ASEC",
+    "cluster": "COA-M",
+    "slug": "asec",
+    "logo": "/org-logos/coa-m/asec.png"
+  },
+  {
+    "name": "Ateneo Student Judicial Court",
+    "abbreviation": "ASJC",
+    "cluster": "COA-M",
+    "slug": "asjc",
+    "logo": "/org-logos/coa-m/asjc.png"
+  },
+  {
+    "name": "Barefoot Philippines Ateneo",
+    "abbreviation": "Barefoot",
+    "cluster": "COA-M",
+    "slug": "barefoot",
+    "logo": "/org-logos/coa-m/barefoot.png"
+  },
+  {
+    "name": "Baybayin Ateneo",
+    "abbreviation": "Baybayin",
+    "cluster": "COA-M",
+    "slug": "baybayin",
+    "logo": "/org-logos/coa-m/baybayin.png"
+  },
+  {
+    "name": "Collegiate Society of Advertising",
+    "abbreviation": "CoSA",
+    "cluster": "COA-M",
+    "slug": "cosa",
+    "logo": "/org-logos/coa-m/cosa.png"
+  },
+  {
+    "name": "Company of Ateneo Dancers",
+    "abbreviation": "CADs",
+    "cluster": "COA-M",
+    "slug": "cads",
+    "logo": "/org-logos/coa-m/cads.png"
+  },
+  {
+    "name": "Computer Society of the Ateneo",
+    "abbreviation": "CompSAt",
+    "cluster": "COA-M",
+    "slug": "compsat",
+    "logo": "/org-logos/coa-m/compsat.png"
+  },
+  {
+    "name": "Council of Organizations of the Ateneo - Manila",
+    "abbreviation": "COA-M",
+    "cluster": "COA-M",
+    "slug": "coa-m-3",
+    "logo": "/org-logos/coa-m/coa-m-3.png"
+  },
+  {
+    "name": "Department of Student Welfare and Services",
+    "abbreviation": "DSWS",
+    "cluster": "COA-M",
+    "slug": "dsws",
+    "logo": "/org-logos/coa-m/dsws.png"
+  },
+  {
+    "name": "Development Society of the Ateneo",
+    "abbreviation": "DevSoc Ateneo",
+    "cluster": "COA-M",
+    "slug": "devsoc-ateneo",
+    "logo": "/org-logos/coa-m/devsoc-ateneo.png"
+  },
+  {
+    "name": "Health Sciences Society of the Ateneo",
+    "abbreviation": "HSS",
+    "cluster": "COA-M",
+    "slug": "hss",
+    "logo": "/org-logos/coa-m/hss.png"
+  },
+  {
+    "name": "HEIGHTS Ateneo",
+    "abbreviation": "HEIGHTS",
+    "cluster": "COA-M",
+    "slug": "heights",
+    "logo": "/org-logos/coa-m/heights.png"
+  },
+  {
+    "name": "Kythe-Ateneo",
+    "abbreviation": "Kythe",
+    "cluster": "COA-M",
+    "slug": "kythe",
+    "logo": "/org-logos/coa-m/kythe.png"
+  },
+  {
+    "name": "Lights for Hope",
+    "abbreviation": "LFH",
+    "cluster": "COA-M",
+    "slug": "lfh-6",
+    "logo": "/org-logos/coa-m/lfh-6.png"
+  },
+  {
+    "name": "Loyola Film Circle",
+    "abbreviation": "LFC",
+    "cluster": "COA-M",
+    "slug": "lfc",
+    "logo": "/org-logos/coa-m/lfc.png"
+  },
+  {
+    "name": "Loyola Mountaineers",
+    "abbreviation": "LM",
+    "cluster": "COA-M",
+    "slug": "lm",
+    "logo": "/org-logos/coa-m/lm.png"
+  },
+  {
+    "name": "Management of Applied Chemistry Association",
+    "abbreviation": "MACA",
+    "cluster": "COA-M",
+    "slug": "maca",
+    "logo": "/org-logos/coa-m/maca.png"
+  },
+  {
+    "name": "Matanglawin Ateneo",
+    "abbreviation": "Matanglawin",
+    "cluster": "COA-M",
+    "slug": "matanglawin",
+    "logo": "/org-logos/coa-m/matanglawin.png"
+  },
+  {
+    "name": "Musmos Ateneo",
+    "abbreviation": "Musmos",
+    "cluster": "COA-M",
+    "slug": "musmos",
+    "logo": "/org-logos/coa-m/musmos.png"
+  },
+  {
+    "name": "Office of Placement and Career Services",
+    "abbreviation": "OPCS",
+    "cluster": "COA-M",
+    "slug": "opcs",
+    "logo": "/org-logos/coa-m/opcs.png"
+  },
+  {
+    "name": "Pre-Medical Society of the Ateneo",
+    "abbreviation": "PMSA",
+    "cluster": "COA-M",
+    "slug": "pmsa",
+    "logo": "/org-logos/coa-m/pmsa.png"
+  },
+  {
+    "name": "Rizal Library Ambassadors",
+    "abbreviation": "RLA",
+    "cluster": "COA-M",
+    "slug": "rla",
+    "logo": "/org-logos/coa-m/rla.png"
+  },
+  {
+    "name": "Sanggunian ng mga Mag-aaral ng mga Paaralang Loyola ng Ateneo de Manila",
+    "abbreviation": "SANGGU",
+    "cluster": "COA-M",
+    "slug": "sanggu",
+    "logo": "/org-logos/coa-m/sanggu.png"
+  },
+  {
+    "name": "Scholars’ Sectoral Board",
+    "abbreviation": "SSB",
+    "cluster": "COA-M",
+    "slug": "ssb",
+    "logo": "/org-logos/coa-m/ssb.png"
+  },
+  {
+    "name": "Tanghalang Ateneo",
+    "abbreviation": "TA",
+    "cluster": "COA-M",
+    "slug": "ta",
+    "logo": "/org-logos/coa-m/ta.png"
+  },
+  {
+    "name": "The Ateneo Assembly",
+    "abbreviation": "Assembly",
+    "cluster": "COA-M",
+    "slug": "assembly",
+    "logo": "/org-logos/coa-m/assembly.png"
+  },
+  {
+    "name": "The GUIDON",
+    "abbreviation": "TGDN",
+    "cluster": "COA-M",
+    "slug": "tgdn",
+    "logo": "/org-logos/coa-m/tgdn.png"
+  },
+  {
+    "name": "TUGON Ateneo",
+    "abbreviation": "Tugon",
+    "cluster": "COA-M",
+    "slug": "tugon",
+    "logo": "/org-logos/coa-m/tugon.png"
+  },
+  {
+    "name": "Youth for Christ - Ateneo",
+    "abbreviation": "YFC - A",
+    "cluster": "COA-M",
+    "slug": "yfc-",
+    "logo": "/org-logos/coa-m/yfc-.png"
+  },
+  {
+    "name": "Aspiring Restaurant Entrepreneurs Association",
+    "abbreviation": "AREA",
+    "cluster": "LIONS",
+    "slug": "area",
+    "logo": "/org-logos/lions/area.png"
+  },
+  {
+    "name": "Ateneans Guided and Inspired by their Love for Animals",
+    "abbreviation": "AGILA",
+    "cluster": "LIONS",
+    "slug": "agila",
+    "logo": "/org-logos/lions/agila.png"
+  },
+  {
+    "name": "Ateneo Car Enthusiasts",
+    "abbreviation": "ACE",
+    "cluster": "LIONS",
+    "slug": "ace-org",
+    "logo": "/org-logos/lions/ace-org.png"
+  },
+  {
+    "name": "Blue Bird Improv",
+    "abbreviation": "BBI",
+    "cluster": "LIONS",
+    "slug": "blue-bird-improv",
+    "logo": "/org-logos/lions/blue-bird-improv.png"
+  },
+  {
+    "name": "Blue Hanguk Society",
+    "abbreviation": "BlueHan",
+    "cluster": "LIONS",
+    "slug": "bluehanguk",
+    "logo": "/org-logos/lions/bluehanguk.png"
+  },
+  {
+    "name": "Blue Indie Komiks",
+    "abbreviation": "BLINK",
+    "cluster": "LIONS",
+    "slug": "blue-indie-komiks",
+    "logo": "/org-logos/lions/blue-indie-komiks.png"
+  },
+  {
+    "name": "Blue Symphony Orchestra",
+    "abbreviation": "BSO",
+    "cluster": "LIONS",
+    "slug": "bso",
+    "logo": "/org-logos/lions/bso.png"
+  },
+  {
+    "name": "Christ's Youth in Action",
+    "abbreviation": "CYA",
+    "cluster": "LIONS",
+    "slug": "cya-bfba8",
+    "logo": "/org-logos/lions/cya-bfba8.png"
+  },
+  {
+    "name": "Contemporary A Cappella Singers Association",
+    "abbreviation": "CASA",
+    "cluster": "LIONS",
+    "slug": "casa",
+    "logo": "/org-logos/lions/casa.png"
+  },
+  {
+    "name": "Effective Altruism Blue",
+    "abbreviation": "EA Blue",
+    "cluster": "LIONS",
+    "slug": "ea-blue",
+    "logo": "/org-logos/lions/ea-blue.png"
+  },
+  {
+    "name": "Fitness Improvement Team",
+    "abbreviation": "FIT",
+    "cluster": "LIONS",
+    "slug": "fit",
+    "logo": "/org-logos/lions/fit.png"
+  },
+  {
+    "name": "Google Developer Groups on Campus - Loyola",
+    "abbreviation": "GDGoC-L",
+    "cluster": "LIONS",
+    "slug": "gdsc-l",
+    "logo": "/org-logos/lions/gdsc-l.png"
+  },
+  {
+    "name": "Habitat for Humanity Blue Chapter",
+    "abbreviation": "HFH BC",
+    "cluster": "LIONS",
+    "slug": "hfh-bc",
+    "logo": "/org-logos/lions/hfh-bc.png"
+  },
+  {
+    "name": "Junior Fellowship for Financial Literacy",
+    "abbreviation": "JFeL",
+    "cluster": "LIONS",
+    "slug": "jfel",
+    "logo": "/org-logos/lions/jfel.png"
+  },
+  {
+    "name": "Kalipunang Sosyolohiya at Antropolohiya",
+    "abbreviation": "KSA",
+    "cluster": "LIONS",
+    "slug": "ksa-05536",
+    "logo": "/org-logos/lions/ksa-05536.png"
+  },
+  {
+    "name": "Laro Loyola",
+    "abbreviation": "LaLo",
+    "cluster": "LIONS",
+    "slug": "lalo",
+    "logo": "/org-logos/lions/lalo.png"
+  },
+  {
+    "name": "League of Atenean Historians",
+    "abbreviation": "LAHi",
+    "cluster": "LIONS",
+    "slug": "lahi",
+    "logo": "/org-logos/lions/lahi.png"
+  },
+  {
+    "name": "Loyola Gaming",
+    "abbreviation": "LG",
+    "cluster": "LIONS",
+    "slug": "lg",
+    "logo": "/org-logos/lions/lg.png"
+  },
+  {
+    "name": "Mokoa Animation",
+    "abbreviation": "Mokoa",
+    "cluster": "LIONS",
+    "slug": "mokoa",
+    "logo": "/org-logos/lions/mokoa.png"
+  },
+  {
+    "name": "PLUME",
+    "abbreviation": "PLUME",
+    "cluster": "LIONS",
+    "slug": "plume",
+    "logo": "/org-logos/lions/plume.png"
+  },
+  {
+    "name": "Project LAAN",
+    "abbreviation": "LAAN",
+    "cluster": "LIONS",
+    "slug": "laan",
+    "logo": "/org-logos/lions/laan.png"
+  },
+  {
+    "name": "Spaces for Women's Art and Narratives",
+    "abbreviation": "SWAN",
+    "cluster": "LIONS",
+    "slug": "swan",
+    "logo": "/org-logos/lions/swan.png"
+  },
+  {
+    "name": "Tabletop Hobbyists and Interests Collective",
+    "abbreviation": "THINC",
+    "cluster": "LIONS",
+    "slug": "thinc-1138b",
+    "logo": "/org-logos/lions/thinc-1138b.png"
+  },
+  {
+    "name": "Touyou no Shinju (東洋の真珠)",
+    "abbreviation": "TOUSHIN",
+    "cluster": "LIONS",
+    "slug": "toushin",
+    "logo": "/org-logos/lions/toushin.png"
+  },
+  {
+    "name": "WriterSkill",
+    "abbreviation": "WS",
+    "cluster": "LIONS",
+    "slug": "ws",
+    "logo": "/org-logos/lions/ws.png"
+  },
+  {
+    "name": "Zoom Photography (Loyola Chapter)",
+    "abbreviation": "ZOOM-Loyola",
+    "cluster": "LIONS",
+    "slug": "zoom",
+    "logo": "/org-logos/lions/zoom.png"
+  }
+]
