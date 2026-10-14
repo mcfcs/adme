@@ -4,19 +4,31 @@ import uuid
 from datetime import datetime, timezone
 from pathlib import Path
 
-from dotenv import load_dotenv
+from dotenv import dotenv_values
 from sqlalchemy import create_engine, event, inspect, text
 from sqlalchemy.pool import NullPool
 
 BACKEND_DIR = Path(__file__).resolve().parent
-load_dotenv(BACKEND_DIR / ".env")
+CONFIG_ERROR = None
+
+
+def load_env_files():
+    for env_file in [BACKEND_DIR / ".env", BACKEND_DIR.parent / ".env"]:
+        for key, value in dotenv_values(env_file).items():
+            if value and not os.environ.get(key):
+                os.environ[key] = value
+
+
+load_env_files()
 
 
 def build_engine():
+    global CONFIG_ERROR
     url = os.getenv("DATABASE_URL", "").strip()
 
     if url == "" and os.getenv("VERCEL"):
-        raise RuntimeError("DATABASE_URL is not set. Add it in Vercel → Project → Settings → Environment Variables.")
+        CONFIG_ERROR = "DATABASE_URL is not set. Add it in Vercel → Project → Settings → Environment Variables, then redeploy."
+        return create_engine("sqlite://")
 
     if url == "":
         local_path = BACKEND_DIR / "local.db"

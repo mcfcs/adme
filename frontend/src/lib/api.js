@@ -13,7 +13,7 @@ export function clearToken() {
   localStorage.removeItem(TOKEN_KEY);
 }
 
-function errorMessage(data) {
+function errorMessage(data, status) {
   if (data && typeof data.detail === "string") {
     return data.detail;
   }
@@ -27,7 +27,10 @@ function errorMessage(data) {
     return `Check the ${field} field.`;
   }
 
-  return "Something went wrong. Try again.";
+  if (status >= 500) {
+    return `The server had a problem (error ${status}). Try again in a moment.`;
+  }
+  return `Something went wrong (error ${status}). Try again.`;
 }
 
 export async function api(path, options = {}) {
@@ -64,7 +67,7 @@ export async function api(path, options = {}) {
       clearToken();
       window.dispatchEvent(new Event("adme:logged-out"));
     }
-    const error = new Error(errorMessage(data));
+    const error = new Error(errorMessage(data, response.status));
     error.status = response.status;
     throw error;
   }
